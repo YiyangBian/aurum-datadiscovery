@@ -28,7 +28,7 @@ sources:
   type: csv
   config:
     # path indicates where the CSV files live
-    path: "/Users/yiyangbian/Desktop/extra"
+    path: "/Users/yiyangbian/Documents/GitHub/Metam/dataset/datasets/Augmentationsearch/open_data_usa"
     # separator used in the CSV files
     separator: ','
   
